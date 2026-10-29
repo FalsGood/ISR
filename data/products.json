@@ -1,6 +1,12 @@
 [
   { "id": 1, "nama": "Keyboard Mekanik", "harga": 450000, "stok": 12 },
-  { "id": 2, "nama": "Mouse Wireless", "harga": 175000, "stok": 30 },
+  { "id": 2, "nama": "Mouse Wireless", "harga": 199000, "stok": 30 },
   { "id": 3, "nama": "Headset Gaming", "harga": 320000, "stok": 8 },
-  { "id": 4, "nama": "Webcam Full HD", "harga": 280000, "stok": 5 }
+  { "id": 4, "nama": "Webcam Full HD", "harga": 280000, "stok": 0 },
+    { "id": 5, "nama": "Monitor 24 inch", "harga": 1500000, "stok": 3 },
+    { "id": 6, "nama": "Laptop Gaming", "harga": 12000000, "stok": 5 },
+    { "id": 7, "nama": "Smartphone Flagship", "harga": 10000000, "stok": 10 },
+    { "id": 8, "nama": "Tablet Android", "harga": 3500000, "stok": 7 },
+    { "id": 9, "nama": "Smartwatch", "harga": 1500000, "stok": 15 },
+    { "id": 10, "nama": "Speaker Bluetooth", "harga": 300000, "stok": 20 }
 ]
